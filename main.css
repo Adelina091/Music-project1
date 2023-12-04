@@ -88,3 +88,44 @@ input{
     font-size: 80px;
 }
 /* Баннер */
+
+/* Best Artists */
+.musicBackground{
+    background: black;
+    
+}
+.cardContainer{
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 0 auto;
+    padding-bottom: 40px;
+}
+.card{
+    width: 250px;
+    border-radius: 10px;
+    padding: 10px;
+}
+.cardInfoBorder{
+    border: 1px solid white;
+    border-radius: 10px;
+    padding: 10px;
+}
+.cardImage img{
+    width: 230px;
+    border-radius: 10px;
+}
+
+.cardsTitle{
+    font-size: 40px;
+    padding: 40px 0px;
+
+}
+.cardTitle{
+    font-size: 40px;
+}
+hr{
+    margin-bottom: 30px;
+}
+/* Best Artists */
