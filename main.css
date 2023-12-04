@@ -172,3 +172,26 @@ hr{
     font-size: 40px;
 }
 /* About US | Contacts */
+
+/* Footer */
+.footerBackground{
+    background: black
+}
+.footerContainer{
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 0px;
+}
+.leftBlock{
+    margin-top: 10px;
+}
+.rightBlock{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    width: 215px;
+}
+.rightBlock div{
+    margin: 5px;
+}
+/* Footer */
