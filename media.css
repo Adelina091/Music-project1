@@ -23,4 +23,21 @@
     .cardContainer{
         justify-content: center;
     }
+    .cardsTitle{
+        display: flex;
+        justify-content: center;
+    }
+    .contactsAboutUsContainer{
+        display: flex;
+        justify-content: center;
+    }
+    .rightBlock{
+        width: auto;
+    }
+    .bannerText{
+        font-size: 50px;
+    }
+    .footerContainer div{
+        margin: 0px 10px;
+    }
 }
