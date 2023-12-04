@@ -129,3 +129,46 @@ hr{
     margin-bottom: 30px;
 }
 /* Best Artists */
+
+/* About US | Contacts */
+.aboutUs{
+    border-radius: 10px;
+    text-align: center;
+    width: 400px;
+}
+.aboutUsTitle h4{
+    font-size: 40px;
+}
+.aboutUsText{
+    font-size: 20px;
+}
+
+.contactUs{
+    border-radius: 10px;
+    text-align: center;
+}
+.contactsAboutUsBackground{
+    background: #000000eb;
+}
+.contactsAboutUsContainer{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    
+    
+}
+.contactsAboutUsContainer div{
+    margin: 20px 0px;
+}
+.contactUs{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.contactUs div{
+    margin: 10px;
+}
+.contactUs h4{
+    font-size: 40px;
+}
+/* About US | Contacts */
