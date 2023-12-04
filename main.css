@@ -73,3 +73,18 @@ input{
     color: black;
 }
 /* Шапка */
+
+/* Баннер */
+.bannerBackground{
+    background-image: url("https://images.pexels.com/photos/3721941/pexels-photo-3721941.jpeg?cs=srgb&dl=pexels-daniel-reche-3721941.jpg&fm=jpg");
+    background-size: cover;
+    height: 100vh;
+    background-repeat: no-repeat;
+    box-shadow: 3px -2px 7px 1px rgb(255, 255, 255);
+}
+
+.bannerText{
+    padding: 200px 0px;
+    font-size: 80px;
+}
+/* Баннер */
