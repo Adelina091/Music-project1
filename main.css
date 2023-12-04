@@ -1,0 +1,75 @@
+/* Основное */
+body{
+    margin: 0px;
+    padding: 0px;
+    color: white;
+    font-family: Roboto;
+}
+a, button{
+    text-decoration: none;
+    cursor: pointer;
+    color: white;
+}
+
+.container{
+    width: 1280px;
+    margin: 0 auto;
+}
+button{
+    background: none;
+    border: 2px solid white;
+    border-radius: 10px;
+    color: white;
+    margin: 15px;
+    font-size: 20px;
+    transition: 0.2s;
+    padding: 5px;
+}
+button:hover{
+    border-radius: 15px;
+    
+}
+input{
+    border-radius: 10px;
+    padding: 10px
+}
+/* Основное */
+
+/* Шапка */
+.navbar{
+    display: flex;
+    justify-content: space-between;
+}
+.logo img{
+    width: 40px;
+    color: white;
+    background-color: white;
+}
+.logo{
+    align-items: center;
+    font-size: 53px;
+    display: flex;
+}
+.hatBackground{
+    background-color: black;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 0px;
+}
+.navbarText{
+    margin: 10px;
+    transition: 0.2s;
+    padding: 10px;
+    border: 2px solid white;
+    border-radius: 10px;
+    transition: 0.2s;
+    cursor: pointer;
+}
+.navbarText:hover{
+    border: 2px solid white;
+    border-radius: 15px;
+    color: black;
+}
+/* Шапка */
