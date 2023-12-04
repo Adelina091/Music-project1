@@ -4,3 +4,23 @@
     }
 }
 
+@media screen and (max-width: 808px) {
+    .navbarText{
+        padding: 5px
+    }
+    a, button{
+        font-size: 10px;
+    }
+    .logo{
+        font-size: 33px;
+    }
+    .aboutUs{
+        width: 300px;
+    }
+    .container{
+        width: 360px;
+    }
+    .cardContainer{
+        justify-content: center;
+    }
+}
