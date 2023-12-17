@@ -130,6 +130,28 @@ hr{
 }
 /* Best Artists */
 
+/* Border */
+.BackroundBorder {
+    background-color: #000000eb;
+}
+.border{
+    padding: 120px;
+}
+table{
+    width: 700px;
+    height: 200px;
+    text-align: center;
+    border-color: white;
+    border-spacing: 5px; 
+}
+
+.Photo {
+float: right;
+margin: 100px;
+margin-top: -500px;
+}
+/* Border */
+
 /* About US | Contacts */
 .aboutUs{
     border-radius: 10px;
@@ -148,7 +170,7 @@ hr{
     text-align: center;
 }
 .contactsAboutUsBackground{
-    background: #000000eb;
+    background: black;
 }
 .contactsAboutUsContainer{
     display: flex;
@@ -175,7 +197,7 @@ hr{
 
 /* Footer */
 .footerBackground{
-    background: black
+    background: #000000eb;
 }
 .footerContainer{
     display: flex;
