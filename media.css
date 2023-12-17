@@ -27,6 +27,18 @@
         display: flex;
         justify-content: center;
     }
+    
+    .border {
+        text-align: center;
+        display: inline-block;
+        padding: 2rem 2rem;
+    }
+    .Photo{
+        justify-content: center;
+        margin: 100px;
+        
+        
+    }
     .contactsAboutUsContainer{
         display: flex;
         justify-content: center;
